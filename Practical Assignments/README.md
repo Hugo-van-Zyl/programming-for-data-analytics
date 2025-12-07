@@ -15,11 +15,28 @@ To execute the code for each assignment, you will need Python installed along wi
 
 You can utilize an appropriate Python IDE like VS Code or Jupyter Notebooks (through Anaconda suite) to run this code. Note there is no user input in these assignments, therefore each code block in the ipynb notebook can be run from top to bottom. 
 
-## Assignment Details
+## Assignment Summary
 ### Assignment 2: UK Bank Holidays Analysis
 File: assignment02-bankholdiays.ipynb
+
 Objective: Retrieve and analyze UK bank holiday data from the government API to identify holidays unique to Northern Ireland.
-Output: Lists all Northern Ireland bank holidays and identifies those unique to the region
+
+
+### Assignment 3: Email Domain Distribution
+File: assignment03-pie.ipynb
+
+Objective: Create a professional pie chart visualization showing the distribution of email domains in a dataset of 1,000 people.
+
+### Assignment 5: Irish Population Analysis by Sex and Age
+File: assignment05-population.ipynb
+
+Objective: Analyze Irish population demographics with focus on age and sex distribution across administrative counties.
+
+### Assignment 6: Weather Data Analysis (Knock Airport)
+File: assignment_6_Weather.ipynb
+
+Objective: Analyze and visualize hourly weather data from Knock Airport meteorological station.
+
 
 ## Research References
 All specific resources used are cited as comments / markdown at the bottom of each respective assignment file / notebook.
